@@ -5,23 +5,6 @@ date:   2018-06-17 21:09:08 +0400
 categories: technologies
 ---
 <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-Javascript, typescript
-Vuejs, react, angularjs
-Redux, redux-saga, storybook, bootstrap, semantic ui, ant
-Laravel,
-expressjs
-Tailwind
-
-Web Technologies
-
-
-
-
-Work experience with Laravel since 4.2 version
-Experience of working with various extensions of Laravel
-Building REST and Graphql api
-Experience of working with Swagger for documenting API
-Work experience with node.js based backend using express, koa and sails.js
 
 #### Technologies We use everyday
 <!-- in your body -->
