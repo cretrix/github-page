@@ -1,13 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-17T21:38:22+04:00</updated><id>/</id><title type="html">Cretrix Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/06/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-06-17T21:09:08+04:00</published><updated>2018-06-17T21:09:08+04:00</updated><id>/jekyll/update/2018/06/17/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2018/06/17/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-17T22:29:41+04:00</updated><id>/</id><title type="html">Cretrix Blog</title><subtitle>Latest updates from Cretrix team</subtitle><entry><title type="html">Which technologies we use</title><link href="/technologies/2018/06/17/technologies-we-use.html" rel="alternate" type="text/html" title="Which technologies we use" /><published>2018-06-17T21:09:08+04:00</published><updated>2018-06-17T21:09:08+04:00</updated><id>/technologies/2018/06/17/technologies-we-use</id><content type="html" xml:base="/technologies/2018/06/17/technologies-we-use.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css&quot; /&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Javascript, typescript
+Vuejs, react, angularjs
+Redux, redux-saga, storybook, bootstrap, semantic ui, ant
+Laravel,
+expressjs
+Tailwind&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Web Technologies&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Work experience with Laravel since 4.2 version
+Experience of working with various extensions of Laravel
+Building REST and Graphql api
+Experience of working with Swagger for documenting API
+Work experience with node.js based backend using express, koa and sails.js&lt;/p&gt;
 
-&lt;p&gt;Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h4 id=&quot;technologies-we-use-everyday&quot;&gt;Technologies We use everyday&lt;/h4&gt;
+&lt;!-- in your body --&gt;
+&lt;div style=&quot;font-size:100px&quot;&gt;
+  
+  &lt;i class=&quot;devicon-amazonwebservices-plain-wordmark colored&quot; title=&quot;Amazon Web Services&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-angularjs-plain colored&quot; title=&quot;Angularjs&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-apache-plain-wordmark colored&quot; title=&quot;Apache&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-babel-plain colored&quot; title=&quot;Babel&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-backbonejs-plain-wordmark colored&quot; title=&quot;BackboneJS&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-bootstrap-plain-wordmark colored&quot; title=&quot;Twitter Bootstrap&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-bower-line-wordmark colored&quot; title=&quot;Bower&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-codeigniter-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-css3-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-d3js-plain colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-docker-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-doctrine-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-express-original-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-foundation-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-git-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-grunt-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-gulp-plain colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-html5-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-jasmine-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-jquery-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-laravel-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-meteor-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-mongodb-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-mysql-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-nginx-original-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-nodejs-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-php-plain colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-protractor-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-react-original-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-rails-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-ruby-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-redis-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-sass-original colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-sequelize-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-symfony-original-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-trello-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-typescript-plain colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-ubuntu-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-vuejs-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-webpack-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-yii-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+  &lt;i class=&quot;devicon-zend-plain-wordmark colored&quot;&gt;&lt;/i&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;technologies-we-have-experience-with&quot;&gt;Technologies we have experience with&lt;/h4&gt;
+
+&lt;div style=&quot;font-size:100px&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Javascript, typescript Vuejs, react, angularjs Redux, redux-saga, storybook, bootstrap, semantic ui, ant Laravel, expressjs Tailwind</summary></entry></feed>
